@@ -10,6 +10,8 @@
 
 [Status](#status) 
 
+[Link to video tutorial](https://www.youtube.com/watch?v=TWdpnUud9rQ) 
+
 # General Info
 
 This code accompanies a 7-minute tutorial, detailing the differences and similarities between class-based and functional React components.
