@@ -14,7 +14,8 @@
 
 This code accompanies a 7-minute tutorial, detailing the differences and similarities between class-based and functional React components.
 
-#App Screenshot
+# App Screenshot
+
 ![project screenshot](https://i.imgur.com/me7KQXd.png?1)
 
 # Technology
