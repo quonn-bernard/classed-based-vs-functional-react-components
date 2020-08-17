@@ -16,7 +16,7 @@ This code accompanies a 7-minute tutorial, detailing the differences and similar
 
 # App Screenshot
 
-![project screenshot](https://i.imgur.com/me7KQXd.png?1)
+![project screenshot](https://i.imgur.com/me7KQXd.png?2)
 
 # Technology
 
