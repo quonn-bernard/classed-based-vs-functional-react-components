@@ -19,6 +19,8 @@ This code accompanies a 7-minute tutorial, detailing the differences and similar
 # App Screenshot
 
 ![project screenshot](https://i.imgur.com/me7KQXd.png?2)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=TWdpnUud9rQ)
+
 
 # Technology
 
